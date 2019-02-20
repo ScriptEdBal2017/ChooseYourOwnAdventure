@@ -135,7 +135,7 @@ var game = {
             message: "You became the baby wolf's friend",
             choices: [
                 {
-                    text: "lived a happy life",
+                    text: "lived a happy life ",
                     nextLevel: "start",
                 },
             ]
@@ -144,7 +144,7 @@ var game = {
         death: {
             background_image: "",
             music: "",
-            message: "As you turn away and start heading home, you suddenly feel tired, your eyes grow heavier and collapse down to the ground, your dead",
+            message: "As you turn away and start heading home, you suddenly feel tired, your eyes grow heavier and collapse down to the ground......your dead",
             choices: [
                 {
                     text: "call for God",
@@ -169,7 +169,7 @@ var game = {
         heaven: {
             background_image: "",
             music: "",
-            message: "You tell God that you want to go to heaven, He acknowleges your reqeust. He tells you that if you tell Him one good thing you did in the life, He will bring you to heaven",
+            message: "You tell God that you want to go to heaven, He acknowleges your reqeust. He tells you that if you tell Him one good thing you did in this life, He will bring you to heaven",
             choices: [
                 {
                     text: "I didn't help the baby wolf",
