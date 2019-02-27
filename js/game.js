@@ -6,7 +6,7 @@ var game = {
     levels: {
 
         start: {
-            message: "You wake up and find yourself dressed like a ninja",
+            message: "You wake up from your dream and find yourself dressed like a ninja",
             choices: [
                 {
                     text: "GO back to sleep",
@@ -52,7 +52,7 @@ var game = {
         bush: {
             background_image: "",
             music: "",
-            message: "You locate the source of the sound comign from inside a bush",
+            message: "You locate the source of the sound coming from inside a bush",
             choices: [
                 {
                     text: "walk away",
